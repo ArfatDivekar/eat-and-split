@@ -31,6 +31,9 @@ body {
   grid-template-columns: 34rem 44rem;
   column-gap: 4rem;
   align-items: start;
+  background-color: #6495ed;
+  padding: 35px;
+  border-radius: 10px;
 }
 
 .button {
